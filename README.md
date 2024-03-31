@@ -98,4 +98,6 @@ set `Title` and `key`
 
 ## merge compare
 
-`gti diff` check difference
+`git diff main` check difference compare to main
+
+`git merge main` merge in main
