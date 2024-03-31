@@ -101,3 +101,5 @@ set `Title` and `key`
 `git diff main` check difference compare to main
 
 `git merge main` merge in main
+
+`git branch -d second-demo-branch` delete branch
