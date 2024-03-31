@@ -43,20 +43,26 @@ pull
 
 `git config --list`
 
-Clone & Status
+## Clone & Status
 
-git clone <- some link ->
-git status
+`git clone <- some link ->`
 
-See Hidden file => ls -alias
-untracked (new file that git doesn't yet track)
-modified (changed)
-staged (file is ready to be committed)
-unmodified (unchanged)
+`git status`
 
-git add <file name or use . for all add file>
-git commit -m "Some message"
+`See Hidden file => ls -alias`
 
-Push Command
+`untracked (new file that git doesn't yet track)`
 
-git push origin main (push - upload repo content to remote repo)
+`modified` (changed)
+
+`staged` (file is ready to be committed)
+
+`unmodified `(unchanged)
+
+`git add <file name or use . for all add file>`
+
+`git commit -m "Some message"`
+
+## Push Command
+
+`git push origin main (push - upload repo content to remote repo)`
