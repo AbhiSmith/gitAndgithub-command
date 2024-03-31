@@ -102,4 +102,12 @@ set `Title` and `key`
 
 `git merge main` merge in main
 
+<<<<<<< HEAD
 `git branch -d second-demo-branch` delete branch
+=======
+## Undoing in git
+
+`git reset` or `git reset README.md`
+
+`git reset HEAD~1` Undoing Commit
+>>>>>>> main
