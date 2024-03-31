@@ -29,12 +29,18 @@ pull
 
 ## Configuration Git
 
-`git config --list`.
-`git config --global user.name "Your Name"`.
+`git config --list`
+
+`git config --global user.name "Your Name"`
+
 `git config --global user.email "you@youraddress.com"`
+
 `git config --global push.default matching`
+
 `git config --global alias.co checkout`
+
 `git init`
+
 `git config --list`
 
 Clone & Status
