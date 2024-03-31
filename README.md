@@ -66,3 +66,12 @@ pull
 ## Push Command
 
 `git push origin main (push - upload repo content to remote repo)`
+
+## ssh key generate
+
+`ssh-keygen -t rsa -b 4096  -C "email@mail.com"`
+
+`testkey`
+testkey.pub
+
+-[Upload on gitHub]
