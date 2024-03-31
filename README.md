@@ -26,3 +26,31 @@ pull
 
 `la` =>> show all hidden file like (.git)
 `ls -la`
+
+## Configuration Git
+
+`git config --list`**
+`git config --global user.name "Your Name"`**
+`git config --global user.email "you@youraddress.com"`
+`git config --global push.default matching`
+`git config --global alias.co checkout`
+`git init`
+`git config --list`
+
+Clone & Status
+
+git clone <- some link ->
+git status
+
+See Hidden file => ls -alias
+untracked (new file that git doesn't yet track)
+modified (changed)
+staged (file is ready to be committed)
+unmodified (unchanged)
+
+git add <file name or use . for all add file>
+git commit -m "Some message"
+
+Push Command
+
+git push origin main (push - upload repo content to remote repo)
