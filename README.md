@@ -107,3 +107,13 @@ set `Title` and `key`
 `git reset` or `git reset README.md`
 
 `git reset HEAD~1` Undoing Commit
+
+## -`git branch -d second-demo-branch` delete branch
+
+## -`git log`
+
+## -`git reset id`
+
+## -`git reset --hard <commit has>` reset
+
+-## fork
