@@ -108,6 +108,18 @@ set `Title` and `key`
 
 `git reset HEAD~1` Undoing Commit
 
+## Undoing in git
+
+`git branch -d second-demo-branch` delete branch
+
+`git log`
+
+`git reset id`
+
+`git reset --hard <commit has>` reset
+
+## fork
+
 ## -`git branch -d second-demo-branch` delete branch
 
 ## -`git log`
