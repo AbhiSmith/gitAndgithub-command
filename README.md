@@ -76,6 +76,32 @@ testkey.pub
 
 -[Upload on gitHub]
 
+set SSH add GPG keys
+
+see key `cat testkey.pub`
+
+set `Title` and `key`
+
+## Adding your SSH key to ssh-agent
+
+## Github Workflow
+
+## git Branching
+
+`git branch`
+
+`git checkout -b <name-branch>` create branch
+
+`git checkout main` switch branch
+
+`git push -u origin second-demo-branch `
+
+## merge compare
+
+`git diff main` check difference compare to main
+
+`git merge main` merge in main
+
 ## Undoing in git
 
 `git reset` or `git reset README.md`
