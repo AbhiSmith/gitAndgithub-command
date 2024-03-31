@@ -75,3 +75,9 @@ pull
 testkey.pub
 
 -[Upload on gitHub]
+
+## Undoing in git
+
+`git reset` or `git reset README.md`
+
+`git reset HEAD~1` Undoing Commit
