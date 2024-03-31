@@ -93,3 +93,9 @@ set `Title` and `key`
 `git checkout -b <name-branch>` create branch
 
 `git checkout main` switch branch
+
+`git push -u origin second-demo-branch `
+
+## merge compare
+
+`gti diff` check difference
